@@ -6,7 +6,7 @@ import hmac
 import base64
 import GlobalVariable
 
-# 获取今天是第几天
+# 获取今天是  第几天
 def distanceDate():
     year = datetime.datetime.now().year
     month = datetime.datetime.now().month
